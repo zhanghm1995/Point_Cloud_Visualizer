@@ -1,4 +1,5 @@
 .idea/
 ignore/
-build
+build/
+build[1-9]
 cmake-build-debug/
